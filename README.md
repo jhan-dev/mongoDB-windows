@@ -3,7 +3,7 @@
 # How to install MongoDB server (Not Mongo Atlas) for Windows:
 
 
-Step 1 — Download the MongoDB MSI Installer Package
+## Step 1 — Download the MongoDB MSI Installer Package
 Head over here (https://www.mongodb.com/try/download/community) and download the current version of MongoDB. Make sure you select MSI as the package you want to download.
 
 
